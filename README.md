@@ -1,18 +1,18 @@
-#  Repositorio do Desafio de Projeto sobre Git/GitHub da DIO
+#  Repositório do Desafio de Projeto sobre Git/GitHub da DIO
 Repositório criado para o Desafio de Projeto com lista de objetos.
 
 
 
 ---
 
-## Links Úteis
+## :link: Links Úteis 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-
+[Repositório dos Projetos DIO](https://github.com/paulodelphos/Projetos-Digital-Innovation-One)
 
 ---
 
-## Projetos do Bootcamp Eduzz Fullstack Developer #3
+## :bookmark_tabs: Projetos do Bootcamp Eduzz Fullstack Developer #3
 
 - [x] **Projeto** - Repositório do Desafio de Projeto sobre Git/GitHub da DIO
 - [ ] **Projeto** - Criando seu jogo de memória estilo Genius
